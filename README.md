@@ -1,0 +1,1 @@
+Switch this Utilla with the one found in C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Utilla. THIS ONLY WORKS FOR THE STEAM VERSION. FOR MORE INFO ON QUEST MODDING CHECK THSI GUIDE: https://gorillatagmodding.burrito.software/#/
